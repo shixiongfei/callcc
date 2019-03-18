@@ -1,0 +1,18 @@
+{
+  "name": "callcc",
+  "version": "1.0.0",
+  "description": "call/cc in javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "call-cc",
+    "call/cc"
+  ],
+  "author": "shixiongfei",
+  "license": "ISC",
+  "dependencies": {
+    "fibers": "^3.1.1"
+  }
+}
